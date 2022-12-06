@@ -1,0 +1,10 @@
+{
+  "extends": "@tsconfig/node18-strictest",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "noEmit": true
+  },
+  "include": [
+    "src/**/*.tsx"
+  ]
+}
