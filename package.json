@@ -1,4 +1,7 @@
 {
   "name": "supreme-pancake",
+  "devDependencies": {
+    "typescript": "4.9"
+  },
   "private": true
 }
