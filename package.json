@@ -1,6 +1,7 @@
 {
   "name": "supreme-pancake",
   "devDependencies": {
+    "@tsconfig/node18-strictest": "1.0.0",
     "typescript": "4.9"
   },
   "private": true
