@@ -3,6 +3,9 @@
   "scripts": {
     "build": "tsc --build"
   },
+  "dependencies": {
+    "@primer/react": "35.15"
+  },
   "devDependencies": {
     "@tsconfig/node18-strictest": "1.0.0",
     "@types/react": "18.0",
