@@ -1,5 +1,7 @@
+import { Text } from "@primer/react";
+
 export const element = (
-  <h1 className="greeting">
+  <Text className="greeting" color="red">
     Hello, world!
-  </h1>
+  </Text>
 );
